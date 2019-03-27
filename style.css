@@ -12,6 +12,7 @@ body {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+  height: 500px;
 }
 .heading{
   width: 800px;
